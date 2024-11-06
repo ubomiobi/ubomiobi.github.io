@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubomiobi.github.io/CYU/sitemap_index.txt
+Sitemap: https://ubomiobi.github.io/VZR/sitemap_index.txt
+Sitemap: https://ubomiobi.github.io/hDb/sitemap_index.txt
+Sitemap: https://ubomiobi.github.io/tNn/sitemap_index.txt
